@@ -1,3 +1,13 @@
+install opencv (pencv-3.4.3-vc14_vc15.exe)-https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.4.3/
+install python 2.7.9 -- https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi
+install numpy >1.11.1 -- https://sourceforge.net/projects/numpy/files/NumPy/
+   pip install --upgrade numpy==1.11.1
+
+install matplotlib -- https://downloads.sourceforge.net/project/matplotlib/matplotlib/matplotlib-1.3.0/matplotlib-1.3.0.win32-py2.7.exe
+
+
+
+
 # TensorFlowObjectDetector (TFOD) for FTC
 
 [![Seek Example Thumbnail](https://img.youtube.com/vi/PJrMLcY_Es4/maxresdefault.jpg)](
