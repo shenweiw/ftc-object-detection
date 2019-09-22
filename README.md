@@ -1,5 +1,7 @@
-## install opencv (pencv-3.4.3-vc14_vc15.exe)
-   --https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.4.3/
+## install opencv (pencv-2.4.11.exe)
+   --https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.11/opencv-2.4.11.exe/download
+   This is the highest opencv version that has the non free modules.
+ 
 
 ## install python 2.7.9 
    -- https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi
