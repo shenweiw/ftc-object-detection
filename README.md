@@ -1,11 +1,11 @@
-## install opencv (pencv-2.4.11.exe)
-   --https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.11/opencv-2.4.11.exe/download
-   This is the highest opencv version that has the non free modules.
- 
-
 ## install python 2.7.9 
    -- https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi
 
+## install opencv (pencv-2.4.11.exe)
+   --https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.11/opencv-2.4.11.exe/download
+   This is the highest opencv version that has the non free modules.
+   Goto opencv/build/python/2.7/x86 folder.
+   Copy cv2.pyd to C:/Python27/lib/site-packeges.
 
 ## install numpy >1.11.1 
    -- https://sourceforge.net/projects/numpy/files/NumPy/
@@ -16,6 +16,8 @@
 
 
 
+
+-------------------------
 
 # TensorFlowObjectDetector (TFOD) for FTC
 
