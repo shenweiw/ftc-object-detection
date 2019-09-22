@@ -20,6 +20,11 @@
    -- https://downloads.sourceforge.net/project/matplotlib/matplotlib/matplotlib-1.3.0/matplotlib-1.3.0.win32-py2.7.exe
 
 
+# Demo codes for object detection
+   -- https://github.com/thecodacus/object-recognition-sift-surf
+
+The following is a running screen shot.
+![Image of Result](https://github.com/shenweiw/ftc-object-detection/blob/master/result.png)
 
 
 -------------------------
