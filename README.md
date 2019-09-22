@@ -3,6 +3,7 @@
 
 ## install opencv (pencv-2.4.11.exe)
    --https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.11/opencv-2.4.11.exe/download
+   
    This is the highest opencv version that has the non free modules.
    
    Goto opencv/build/python/2.7/x86 folder.
